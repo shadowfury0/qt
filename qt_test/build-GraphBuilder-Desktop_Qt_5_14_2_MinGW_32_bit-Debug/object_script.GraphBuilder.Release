@@ -1,0 +1,15 @@
+release/customScrollContainer.o
+release/customWidgets.o
+release/graph_implement.o
+release/graph_view.o
+release/main.o
+release/mainwindow.o
+release/mycanvas.o
+release/slidepage.o
+release/qrc_icons.o
+release/moc_customScrollContainer.o
+release/moc_customWidgets.o
+release/moc_graph_view.o
+release/moc_mainwindow.o
+release/moc_mycanvas.o
+release/moc_slidepage.o

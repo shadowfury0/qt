@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mstyle.o
+./release\progressbar.o
+./release\scroll.o
+./release\widget.o
+./release\qrc_picture.o
+./release\moc_mstyle.o
+./release\moc_progressbar.o
+./release\moc_scroll.o
+./release\moc_widget.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./release\draw.o
+./release\main.o
+./release\mainwindow.o
+./release\mstyle.o
+./release\paint.o
+./release\sidewidget.o
+./release\topwidget.o
+./release\emojidialog.o
+./release\qrc_resource.o
+./release\moc_draw.o
+./release\moc_mainwindow.o
+./release\moc_mstyle.o
+./release\moc_paint.o
+);

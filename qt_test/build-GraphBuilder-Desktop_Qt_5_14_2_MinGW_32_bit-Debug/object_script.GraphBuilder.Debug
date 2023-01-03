@@ -1,0 +1,15 @@
+debug/customScrollContainer.o
+debug/customWidgets.o
+debug/graph_implement.o
+debug/graph_view.o
+debug/main.o
+debug/mainwindow.o
+debug/mycanvas.o
+debug/slidepage.o
+debug/qrc_icons.o
+debug/moc_customScrollContainer.o
+debug/moc_customWidgets.o
+debug/moc_graph_view.o
+debug/moc_mainwindow.o
+debug/moc_mycanvas.o
+debug/moc_slidepage.o
